@@ -23,23 +23,23 @@ Select all correct answers.
 
 ?: Question 3 
 
-(X)
-( )
-( ) 
-( )
+(X) choice
+( ) choice
+( ) choice
+( ) choice
 
 ?: Question 4
 
-(X)
-( )
-( )
-( )
+(X) choice
+( ) choice
+( ) choice
+( ) choice
 
 ?: Question 5 
 
-( )
-( )
-(X)
-( )
+( ) choice
+( ) choice
+(X) choice
+( ) choice
 
 ???
