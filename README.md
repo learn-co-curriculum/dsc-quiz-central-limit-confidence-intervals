@@ -34,11 +34,12 @@ While we recommend using Python to find the answers to these questions, it is no
 ( ) `stats.norm.ppf(q=0.975, df=24)`
 ( ) `stats.norm.ppf(q=0.975)`
 
-?: Question 5 
+?: Select all true statements from the choices below:
 
-( ) choice
-( ) choice
-(X) choice
-( ) choice
+[X] Sampling error decreases as the sample size increases.
+[ ] Estimates of population parameters are known as statistics.
+[X] By the central limit theorem, the sampling distribution of a population parameter is normally distributed.
+[ ] Higher confidence levels result in narrower confidence intervals.
+
 
 ???
