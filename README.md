@@ -26,12 +26,13 @@ While we recommend using Python to find the answers to these questions, it is no
 [ ] Sample mean
 [X] Confidence level
 
-?: Question 4
+?: How do you obtain the critical value for the test statistic in the case you want to determine the 95% confidence interval for the mean and you don't know the population standard deviation? Assume your sample size is equal to n = 25.
 
-(X) choice
-( ) choice
-( ) choice
-( ) choice
+( ) `stats.t.ppf(q=0.95, df=24)`
+(X) `stats.t.ppf(q=0.975, df=24)`
+( ) `stats.norm.ppf(q=0.95)`
+( ) `stats.norm.ppf(q=0.975, df=24)`
+( ) `stats.norm.ppf(q=0.975)`
 
 ?: Question 5 
 
