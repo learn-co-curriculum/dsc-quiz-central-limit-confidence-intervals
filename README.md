@@ -19,12 +19,12 @@ While we recommend using Python to find the answers to these questions, it is no
 ( ) There is a 95% probability that the population mean lies between the lower and upper bounds of the 95% confidence interval.
 ( ) A 95% confidence interval implies that 95% of all possible sample means fall within the range of the interval.
 
-?: Question 3 
+?: What factors affect the **size** of the confidence interval for a population mean? Select all applicable answers. For the purposes of the question, you may assume you do not know the population standard deviation.
 
-(X) choice
-( ) choice
-( ) choice
-( ) choice
+[X] Sample size
+[X] Sample standard deviation
+[ ] Sample mean
+[X] Confidence level
 
 ?: Question 4
 
