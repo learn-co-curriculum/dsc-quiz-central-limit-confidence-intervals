@@ -11,14 +11,6 @@ While we recommend using Python to find the answers to these questions, it is no
 
 What is a sampling distribution?
 
-
-|   user_id | city      | state   |
-|-----------|-----------|---------|
-|         1 | New York  | NY      |
-|         2 | Boston    | MA      |
-|         3 | Cambridge | MA      |
-|         4 | New York  | NY      |
-
 ( ) The distribution of data points within a single sample from a population.
 
 (X) The probability distribution that shows every possible result a statistic can take.
