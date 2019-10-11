@@ -4,9 +4,20 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ???
 
-# Quiz - Central Limit Theorem and Confidence Intervals
+# Sampling Distributions, Central Limit Theorem, Confidence Intervals
 
-?: What is a sampling distribution?
+?: Question 1 
+
+
+What is a sampling distribution?
+
+
+|   user_id | city      | state   |
+|-----------|-----------|---------|
+|         1 | New York  | NY      |
+|         2 | Boston    | MA      |
+|         3 | Cambridge | MA      |
+|         4 | New York  | NY      |
 
 ( ) The distribution of data points within a single sample from a population.
 
@@ -14,7 +25,11 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) A distribution with mean 0 and standard deviation 1.
 
-?: What is the correct way to interpret a 95% confidence interval for the population mean? 
+
+?: Question 2
+
+
+What is the correct way to interpret a 95% confidence interval for the population mean? 
 
 ( ) A 95% confidence interval is the interval that contains 95% of values in a sample.
 
@@ -24,7 +39,10 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) A 95% confidence interval implies that 95% of all possible sample means fall within the range of the interval.
 
-?: What factors affect the **size** of the confidence interval for a population mean? Select all applicable answers. For the purposes of the question, you may assume you do not know the population standard deviation.
+?: Question 3
+
+
+What factors affect the **size** of the confidence interval for a population mean? Select all applicable answers. For the purposes of the question, you may assume you do not know the population standard deviation.
 
 [X] Sample size
 
@@ -34,7 +52,10 @@ While we recommend using Python to find the answers to these questions, it is no
 
 [X] Confidence level
 
-?: How do you obtain the critical value for the test statistic in the case you want to determine the 95% confidence interval for the mean and you don't know the population standard deviation? Assume your sample size is equal to n = 25.
+?: Question 4
+
+
+How do you obtain the critical value for the test statistic in the case you want to determine the 95% confidence interval for the mean and you don't know the population standard deviation? Assume your sample size is equal to n = 25.
 
 ( ) `stats.t.ppf(q=0.95, df=24)`
 
@@ -46,7 +67,10 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) `stats.norm.ppf(q=0.975)`
 
-?: Select all true statements from the choices below:
+?: Question 5
+
+
+Select all true statements from the choices below:
 
 [X] Sampling error decreases as the sample size increases.
 
